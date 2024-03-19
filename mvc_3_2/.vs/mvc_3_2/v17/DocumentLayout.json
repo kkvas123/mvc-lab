@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kasia\\OneDrive\\Pulpit\\mvc_lab\\mvc_3_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFBCF47F-7B0F-44D1-A848-8F6C6BE8A7AE}|mvc_3_2.njsproj|C:\\Users\\kasia\\OneDrive\\Pulpit\\mvc_lab\\mvc_3_2\\zad4\\routes\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{DFBCF47F-7B0F-44D1-A848-8F6C6BE8A7AE}|mvc_3_2.njsproj|solutionrelative:zad4\\routes\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFBCF47F-7B0F-44D1-A848-8F6C6BE8A7AE}|mvc_3_2.njsproj|C:\\Users\\kasia\\OneDrive\\Pulpit\\mvc_lab\\mvc_3_2\\zad3\\routes\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{DFBCF47F-7B0F-44D1-A848-8F6C6BE8A7AE}|mvc_3_2.njsproj|solutionrelative:zad3\\routes\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFBCF47F-7B0F-44D1-A848-8F6C6BE8A7AE}|mvc_3_2.njsproj|C:\\Users\\kasia\\OneDrive\\Pulpit\\mvc_lab\\mvc_3_2\\zad3\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{DFBCF47F-7B0F-44D1-A848-8F6C6BE8A7AE}|mvc_3_2.njsproj|solutionrelative:zad3\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFBCF47F-7B0F-44D1-A848-8F6C6BE8A7AE}|mvc_3_2.njsproj|C:\\Users\\kasia\\OneDrive\\Pulpit\\mvc_lab\\mvc_3_2\\zad1\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{DFBCF47F-7B0F-44D1-A848-8F6C6BE8A7AE}|mvc_3_2.njsproj|solutionrelative:zad1\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFBCF47F-7B0F-44D1-A848-8F6C6BE8A7AE}|mvc_3_2.njsproj|C:\\Users\\kasia\\OneDrive\\Pulpit\\mvc_lab\\mvc_3_2\\zad4\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{DFBCF47F-7B0F-44D1-A848-8F6C6BE8A7AE}|mvc_3_2.njsproj|solutionrelative:zad4\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFBCF47F-7B0F-44D1-A848-8F6C6BE8A7AE}|mvc_3_2.njsproj|C:\\Users\\kasia\\OneDrive\\Pulpit\\mvc_lab\\mvc_3_2\\zad2\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{DFBCF47F-7B0F-44D1-A848-8F6C6BE8A7AE}|mvc_3_2.njsproj|solutionrelative:zad2\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFBCF47F-7B0F-44D1-A848-8F6C6BE8A7AE}|mvc_3_2.njsproj|C:\\Users\\kasia\\OneDrive\\Pulpit\\mvc_lab\\mvc_3_2\\zad2\\views\\home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{DFBCF47F-7B0F-44D1-A848-8F6C6BE8A7AE}|mvc_3_2.njsproj|solutionrelative:zad2\\views\\home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFBCF47F-7B0F-44D1-A848-8F6C6BE8A7AE}|mvc_3_2.njsproj|C:\\Users\\kasia\\OneDrive\\Pulpit\\mvc_lab\\mvc_3_2\\zad1\\views\\student.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{DFBCF47F-7B0F-44D1-A848-8F6C6BE8A7AE}|mvc_3_2.njsproj|solutionrelative:zad1\\views\\student.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFBCF47F-7B0F-44D1-A848-8F6C6BE8A7AE}|mvc_3_2.njsproj|C:\\Users\\kasia\\OneDrive\\Pulpit\\mvc_lab\\mvc_3_2\\zad1\\views\\home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{DFBCF47F-7B0F-44D1-A848-8F6C6BE8A7AE}|mvc_3_2.njsproj|solutionrelative:zad1\\views\\home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\Users\\kasia\\OneDrive\\Pulpit\\mvc_lab\\mvc_3_2\\zad4\\routes\\index.js",
+              "RelativeDocumentMoniker": "zad4\\routes\\index.js",
+              "ToolTip": "C:\\Users\\kasia\\OneDrive\\Pulpit\\mvc_lab\\mvc_3_2\\zad4\\routes\\index.js",
+              "RelativeToolTip": "zad4\\routes\\index.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-19T17:14:50.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "app.js",
+              "DocumentMoniker": "C:\\Users\\kasia\\OneDrive\\Pulpit\\mvc_lab\\mvc_3_2\\zad4\\app.js",
+              "RelativeDocumentMoniker": "zad4\\app.js",
+              "ToolTip": "C:\\Users\\kasia\\OneDrive\\Pulpit\\mvc_lab\\mvc_3_2\\zad4\\app.js",
+              "RelativeToolTip": "zad4\\app.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-19T17:01:00.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "app.js",
+              "DocumentMoniker": "C:\\Users\\kasia\\OneDrive\\Pulpit\\mvc_lab\\mvc_3_2\\zad2\\app.js",
+              "RelativeDocumentMoniker": "zad2\\app.js",
+              "ToolTip": "C:\\Users\\kasia\\OneDrive\\Pulpit\\mvc_lab\\mvc_3_2\\zad2\\app.js",
+              "RelativeToolTip": "zad2\\app.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-19T16:53:41.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "app.js",
+              "DocumentMoniker": "C:\\Users\\kasia\\OneDrive\\Pulpit\\mvc_lab\\mvc_3_2\\zad3\\app.js",
+              "RelativeDocumentMoniker": "zad3\\app.js",
+              "ToolTip": "C:\\Users\\kasia\\OneDrive\\Pulpit\\mvc_lab\\mvc_3_2\\zad3\\app.js",
+              "RelativeToolTip": "zad3\\app.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-19T16:53:29.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\Users\\kasia\\OneDrive\\Pulpit\\mvc_lab\\mvc_3_2\\zad3\\routes\\index.js",
+              "RelativeDocumentMoniker": "zad3\\routes\\index.js",
+              "ToolTip": "C:\\Users\\kasia\\OneDrive\\Pulpit\\mvc_lab\\mvc_3_2\\zad3\\routes\\index.js",
+              "RelativeToolTip": "zad3\\routes\\index.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-19T16:50:01.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "home.js",
+              "DocumentMoniker": "C:\\Users\\kasia\\OneDrive\\Pulpit\\mvc_lab\\mvc_3_2\\zad2\\views\\home.js",
+              "RelativeDocumentMoniker": "zad2\\views\\home.js",
+              "ToolTip": "C:\\Users\\kasia\\OneDrive\\Pulpit\\mvc_lab\\mvc_3_2\\zad2\\views\\home.js",
+              "RelativeToolTip": "zad2\\views\\home.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-19T16:33:27.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "student.js",
+              "DocumentMoniker": "C:\\Users\\kasia\\OneDrive\\Pulpit\\mvc_lab\\mvc_3_2\\zad1\\views\\student.js",
+              "RelativeDocumentMoniker": "zad1\\views\\student.js",
+              "ToolTip": "C:\\Users\\kasia\\OneDrive\\Pulpit\\mvc_lab\\mvc_3_2\\zad1\\views\\student.js",
+              "RelativeToolTip": "zad1\\views\\student.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-19T16:02:56.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "home.js",
+              "DocumentMoniker": "C:\\Users\\kasia\\OneDrive\\Pulpit\\mvc_lab\\mvc_3_2\\zad1\\views\\home.js",
+              "RelativeDocumentMoniker": "zad1\\views\\home.js",
+              "ToolTip": "C:\\Users\\kasia\\OneDrive\\Pulpit\\mvc_lab\\mvc_3_2\\zad1\\views\\home.js",
+              "RelativeToolTip": "zad1\\views\\home.js",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-19T16:02:46.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "app.js",
+              "DocumentMoniker": "C:\\Users\\kasia\\OneDrive\\Pulpit\\mvc_lab\\mvc_3_2\\zad1\\app.js",
+              "RelativeDocumentMoniker": "zad1\\app.js",
+              "ToolTip": "C:\\Users\\kasia\\OneDrive\\Pulpit\\mvc_lab\\mvc_3_2\\zad1\\app.js",
+              "RelativeToolTip": "zad1\\app.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-19T15:54:24.263Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "mvc_3_2",
+  "version": "0.0.0",
+  "description": "mvc_3_2",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {
+    "eslint": "^8.21.0"
+  },
+  "eslintConfig": {
+  }
+}
